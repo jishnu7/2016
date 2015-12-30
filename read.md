@@ -1,8 +1,8 @@
-# Cycling
+# Reading
 
 ## Jan
-- Distance: <num>
-- Longest: <num>
+- Books: <num>
+- Pocket Article: <num>
 
 ## Feb
 ## Mar
