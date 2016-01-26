@@ -5,7 +5,7 @@
 - [ ] 1,000 kms a month.
 - [ ] 10,000 kms for 2016.
 - [ ] 300 kms a day.
-- [ ] 2 day ride, not as a group.
+- [x] 2 day ride, not as a group.
 - [ ] Ooty climb.
 
 ## Run
