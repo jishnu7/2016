@@ -1,8 +1,8 @@
 # Cycling
 
 ## Jan
-- Distance: <num>
-- Longest: <num>
+- Distance: 734 km
+- Longest: 204 km
 
 ## Feb
 ## Mar
