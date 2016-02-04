@@ -1,8 +1,6 @@
-# Reading
+# Updates
 
 ## Jan
-- Books: <num>
-- Pocket Article: <num>
 
 ## Feb
 ## Mar
