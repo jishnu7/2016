@@ -7,9 +7,11 @@ Had the longest ride of mine this month. Covered 370kms in 2 days. It was a good
 
 Went to college this month. Did a presentation there. Event inauguration was done by principal and HODs from other branches were also there. It was overwhelming.
 
-Last day of the month, did another Mysore ride, along with colleagues. It was a slow ride, and I was riding Deepan's foldie.
+Last day of the month, did another Mysore ride, along with Mithun, Abhishek and Dilip. It was a slow ride, and I was riding Deepan's foldie.
 
 I'm no longer fall free from bike. Had 2 falls this month, both because of not paying much attention to road (gps!), both near the starting of long rides. Seat now has a slant. Will have to replace it most probably.
+
+I have planned 2 or 3 blog posts this month. All of the are pending. Will try to finish it by first week of Feb.
 
 ## Feb
 ## Mar
