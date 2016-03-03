@@ -14,6 +14,14 @@ I'm no longer fall free from bike. Had 2 falls this month, both because of not p
 I have planned 2 or 3 blog posts this month. All of the are pending. Will try to finish it by first week of Feb.
 
 ## Feb
+Another low productive month. Blog posts are still pending. Stopped pocket article reading, Havn't started running yet.
+
+I got interest in contributing to gnome. Setup my system for gnome development. Also made a minor patch to gnome-sound-recorder module. Sent 2 patches to Polari, but both did not impress the core developers.
+
+I moved to debian, from my daily driver Arch Linux. Debian was need for some gnome development dependencies. I tried to set it up in Arch, but couldn't succeed. Now I'm actively using both debian and Arch.
+
+I hope next month will be better.
+
 ## Mar
 ## Apr
 ## May
