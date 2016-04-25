@@ -6,7 +6,7 @@
 - [ ] 10,000 kms for 2016.
 - [ ] 300 kms a day.
 - [x] 2 day ride, not as a group.
-- [ ] Ooty climb.
+- [x] Ooty climb.
 
 ## Run
 - [ ] Run 5 days a week.
